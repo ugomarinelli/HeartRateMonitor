@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "16343889AC02C461000254BB043EF3D37CDAFD5F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "16343889AC02C461000254BB043EF3D37CDAFD5F" : 9223372036854775807,
+    "AE075FB8B6ADC44D24D3C10942A426B00159475F" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3630049B-E5F4-4494-A0C5-DE27F0A8973A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "16343889AC02C461000254BB043EF3D37CDAFD5F" : "CACEIS-Seller-iPad-App\/",
+    "AE075FB8B6ADC44D24D3C10942A426B00159475F" : "Projects\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HeartRateMonitor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HeartRateMonitor\/HeartRateMonitor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ambrecrocis\/CACEIS-Seller-iPad-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "16343889AC02C461000254BB043EF3D37CDAFD5F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/hub.jazz.net\/git\/ugomarinelli\/InnovUp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AE075FB8B6ADC44D24D3C10942A426B00159475F"
+    }
+  ]
+}
